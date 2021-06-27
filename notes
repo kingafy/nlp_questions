@@ -1,0 +1,185 @@
+https://www.analyticsvidhya.com/blog/2017/07/30-questions-test-data-scientist-natural-language-processing-solution-skilltest-nlp/
+https://www.analyticsvidhya.com/blog/2017/07/30-questions-test-data-scientist-natural-language-processing-solution-skilltest-nlp/
+https://www.analyticsvidhya.com/blog/2017/04/40-questions-test-data-scientist-deep-learning/
+https://www.analyticsvidhya.com/blog/2017/08/skilltest-deep-learning/
+https://quizlet.com/300350513/40-questions-to-test-a-data-scientist-on-machine-learning-flash-cards/#:~:text=Which%20of%20the%20following%20options,to%20lower%20value%20of%20K.
+https://www.analyticsvidhya.com/blog/2017/04/40-questions-test-data-scientist-deep-learning/
+https://www.analyticsvidhya.com/blog/2017/01/must-know-questions-deep-learning/
+
+https://www.analyticsvidhya.com/blog/2017/01/must-know-questions-deep-learning/#:~:text=Q30.,best%20description%20of%20early%20stopping%3F&text=Option%20B%20is%20correct.,Q31.
+
+ReLU can get saturated too. This can be on the negative side of x-axis==> so based on Q answer is false
+
+vanishing gradient problem:- sigmoid and tanh
+Higher the dropout rate, lower is the regularization
+There are many types of gradient descent algorithms. Two of the most notable ones are l-BFGS and SGD. l-BFGS is a second order gradient descent technique whereas SGD is a first order gradient descent technique.
+
+In which of the following scenarios would you prefer l-BFGS over SGD?
+
+Data is sparse
+Number of parameters of neural network are small
+A) Both 1 and 2
+
+RAKE and TEXTRANK algos used for Keyword extraction
+Which of the following statement is the best description of early stopping?
+Simulate the network on a test dataset after every epoch of training. Stop training when the generalization error starts to increase
+
+The number of nodes in the input layer is 10 and the hidden layer is 5. The maximum number of connections from the input layer to the hidden layer are
+50
+
+How to check python version in command prompt
+python --version
+python -V
+
+levenshtein distance algorithm can be used for Clustering
+
+Which of the following built in features of Spacy :--Tokenization,NER,Similarity,Pipelines
+BERT word embeddings support
+Bidirectional context and Custom trained for specific context
+
+What is the right order of below steps in information extraction:-
+Sentence Segmentation-> tokenization ->POS tagging ->entity detection ->relation detection(ABDCE)
+
+
+Relation extraction:-->
+
+As the length of sentence increases, it becomes harder for a neural translation machine to perform as sentence meaning is represented by a fixed dimensional vector. To solve this, which of the following could we do?
+Attention
+
+epochs represent passes of the trainnig data through network
+
+GRU can be used to solve vanishing gradient issue
+
+In this architecture, the relationship between all words in a sentence is modelled irrespective of their position. Which architecture is this?--BERT
+
+
+
+
+Which of the following techniques/algorithms/libraries can generally be used for Text Summmarization
+TextRank,SeqtoSeq,Gensim
+
+RDF, schema and inference languages will make all the data in the world look like one huge database
+
+similarity between documents :-Latent Semantic Analysis
+IDF calculated in TFIDF:-assign weights to the words based on the frequency across all docs
+human readable form of RDF schema
+NER :-stanford ANNIE and opencalais
+GAN-generator discrimina.....each side
+OPEN nlP POS Tgger
+semantic web uses web to describe web contents
+Glove:-matrix factorization of log counts
+Models that can be used for Seq toSeq:-HMM and CRF
+k-fold-- 1,2,3
+TPR:--recall
+google search feature did you mean :-- 1 and 2(Collaborative Filtering model to detect similar user behaviors (queries)
+Model that checks for Levenshtein distance among the dictionary terms)
+CRF is discrimative HMM is generative
+tank is full of soldiers ..word sense disambiguation--option 1
+binary classification:--sigmoid
+reduce dimensionality of data in NLP:-stemming/lema,remove stop words(all the above)
+Zipf's law:-frequency of a token in a text is directly proportional
+retrieval model and generative model chatbots:--Rule based learning and sequence to sequence model
+tfidf can be used for semantic similarity :--False
+activation used in multi layer perceptron:-RELU
+recursive architecture not present:-constituency parsing
+tokenizer types:- word sentences
+fixed dimensional vector increase sentence length:--attention mechanism
+which of the following are not the rdf elements which are used to describe groups--><Bag><Seq><Alt>
+word embedding lib-glove fastext gensim
+Dr Lotfi Zadeh ==> fuzzy logic
+unsupervised clustering algorithms k means LDA
+Potterstemmer --tradit , argu, die deni
+1    2     3         4          5   6     7         8   9  10    11   12   13   14      15
+The event structure constitutes of panel discusiion on the theme Smart city way for the future.--vocab size :-->15
+Stemming will remove all 'er' suffixes in every word :-True
+
+Instead of trying to achieve absolute zero error, we set a metric called bayes error which is the error we hope to achieve. What could be the reason for using bayes error?
+A. Input variables may not contain complete information about the output variable
+B. System (that creates input-output mapping) may be stochastic
+C. Limited training data
+D. All the above
+
+Solution: (D)
+
+packages to be imported in nltk --> all except Word2Vec
+
+k-means clustering is a method of vector quantization, originally from signal processing, that aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean (cluster centers or cluster centroid), serving as a prototype of the cluster
+
+-0.0001==> tanh
+tpr-->recall
+Interview questions https://www.analyticsvidhya.com/blog/2017/01/must-know-questions-deep-learning/
+
+Pyspark ml support :-- https://spark.apache.org/docs/2.0.0/api/python/pyspark.mllib.html ==> KMeans/LDA/KNN/Gaussian mixture
+
+Bio tagging applicable for NER
+
+Some of our colleagues1 are going to be supportive. These kinds of people1 will earn our gratitude. – Coreferring noun phrases, whereby the second noun phrase is a predication over the first.==>Some of our collegaues
+
+Knowledge bases L--wordnet,conceptual,wikitext
+
+Which of the following statement is the best description of early stopping? = Simulate the network on a test dataset after every epoch of training. Stop training when the generalization error starts to increase
+
+Vocabulary size of above corpus :--15
+
+Identify the following activation function : φ(V) = Z + (1/ 1 + exp (– x * V + Y) ), Z, X, Y are parameters 
+
+Sigmoid
+
+which of the following is not a step for word normalization ==run sentences
+
+Sequence of tasks in perceptron--> 1432
+
+How many times I will appear with love in cooccurence matrix :--2
+
+which of these are built in models/functions in Gensim==all options
+
+Spell correction assumption :--false
+
+While creating a machine learning model on text data, you created a document term matrix of the input data of 100K documents. Which of the following remedies can be used to reduce the dimensions of data – 1. Latent Dirichlet Allocation 2. Latent Semantic Indexing 3. Keyword Normalization
+
+Ans --1,2,3
+
+Social Media platforms are the most intuitive form of text data. You are given a corpus of complete social media data of tweets. How can you create a model that suggests the hashtags?==D
+
+From https://www.analyticsvidhya.com/blog/2017/07/30-questions-test-data-scientist-natural-language-processing-solution-skilltest-nlp/
+
+A) Perform Topic Models to obtain most significant words of the corpus B) Train a Bag of Ngrams model to capture top n-grams – words and their combinations C) Train a word2vector model to learn repeating contexts in the sentences D) All of these Solution: (D)
+
+While working with context extraction from a text data, you encountered two different sentences: The tank is full of soldiers. The tank is full of nitrogen. Which of the following measures can be used to remove the problem of word sense disambiguation in the sentences? A) Compare the dictionary definition of an ambiguous word with the terms contained in its neighborhood B) Co-reference resolution in which one resolute the meaning of ambiguous word with the proper noun present in the previous sentence C) Use dependency parsing of sentence to understand the meanings (A) From https://www.analyticsvidhya.com/blog/2017/07/30-questions-test-data-scientist-natural-language-processing-solution-skilltest-nlp/
+
+While working with text data obtained from news sentences, which are structured in nature, which of the grammar-based text parsing techniques can be used for noun phrase detection, verb phrase detection, subject detection and object detection. A) Part of speech tagging B) Dependency Parsing and Constituency Parsing C) Skip Gram and N-Gram extraction D) Continuous Bag of Words Solution: (B) Dependency and constituent parsing extract these relations from the text
+
+Types of parsing:--Deep parsing andShallow parsing  
+A ReLU unit in neural network never gets saturated--false
+
+Which one of the below is same as "Parsing" -->Syntactic Analysis
+
+when does a neural network become a deep learning model-- add more hidden layers and increase depth of neural network
+For k fold cross validation , smaller k value implies less variance:--true 
+The semantic of something is the meaning of something
+One fast growing language for building semantic web applications is RSS.
+
+CRF is discrimative and HMM is generative
+
+Which of the following statements are true regarding Gradient descent :->all of above
+
+NER is contextual
+
+Hyperparams in neural network--learning rate, batch size and number of epochs
+
+In Gradient Descent or Batch Gradient Descent, we use the whole training data per epoch whereas, in Stochastic Gradient Descent, we use only single training example per epoch and Mini-batch Gradient Descent lies in between of these two extremes, in which we can use a mini-batch(small portion) of training data per epoch, thumb rule for selecting the size of mini-batch is in power of 2 like 32, 64, 128 etc.
+
+From https://datascience.stackexchange.com/questions/36450/what-is-the-difference-between-gradient-descent-and-stochastic-gradient-descent
+
+Can be computationally efficient Can be used to improve convergence
+
+https://www.kdnuggets.com/2020/01/intro-guide-nlp-data-scientists.html
+
+https://www.analyticsvidhya.com/blog/2017/01/must-know-questions-deep-learning/ https://www.analyticsvidhya.com/blog/2017/07/30-questions-test-data-scientist-natural-language-processing-solution-skilltest-nlp/
+
+https://www.mygreatlearning.com/blog/nlp-interview-questions/
+
+https://compsciedu.com/Neural-Networks/UGC-NET-computer-science-question-paper/discussion/7522 https://www.analyticsvidhya.com/blog/2017/07/30-questions-test-data-scientist-natural-language-processing-solution-skilltest-nlp/
+
+https://nptel.ac.in/content/storage2/courses/downloads/106106184/Week_09_Assignment_09.pdf
+
