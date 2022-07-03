@@ -183,3 +183,32 @@ https://compsciedu.com/Neural-Networks/UGC-NET-computer-science-question-paper/d
 
 https://nptel.ac.in/content/storage2/courses/downloads/106106184/Week_09_Assignment_09.pdf
 
+spark-submit --master ip --executor-cores=6 --diver 24G SparkALS-20m.py
+https://github.com/KevinLiao159/MyDataSciencePortfolio/blob/master/movie_recommender/movie_recommendation_using_ALS.ipynb
+
+https://www.mygreatlearning.com/blog/nlp-interview-questions/
+https://onlinecoursetutorials.com/interview-questions/natural-language-processing-interview-questions-and-answers/
+
+
+https://github.com/KevinLiao159/MyDataSciencePortfolio/tree/master/movie_recommender/src
+
+python movielens_ALS_spark.py --movie_name "Iron Man" --top_n 10
+
+1MB :--It took my system 29.45s to make inference 
+
+
+It took my system 98.98s to make inference for 265MB dataset
+
+spark-submit --master local[4] movielens_ALS_spark.py --movie_name "Iron Man" --top_n 10
+
+
+http://jmcauley.ucsd.edu/data/amazon/links.html==> amazon data file
+
+https://cseweb.ucsd.edu/~jmcauley/datasets.html
+
+https://github.com/caserec/Datasets-for-Recommender-Systems
+
+https://gist.github.com/entaroadun/1653794
+
+amazon dataset in json:-->https://nijianmo.github.io/amazon/index.html
+
